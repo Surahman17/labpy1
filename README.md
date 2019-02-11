@@ -1,7 +1,7 @@
 # labpy1
 
 
-Cara membuat program bilangan terbesar python menggunakan sublime text
+Cara membuat program python "Menentukan Bilangan Terbesar" menggunakan sublime text
 
 1. Buka Sublime Text
 
@@ -39,7 +39,7 @@ Cara membuat program bilangan terbesar python menggunakan sublime text
 
 ![alt teks](bukacmd.png)
 
-10. Masukan inputan seperti berikut:
+10. Masukan data seperti berikut:
 
     Contoh bilangan terbesar A
 
